@@ -1,0 +1,53 @@
+commit 055522908423b9c2dcc362c42a1de267ea92b821
+Author: Regan Heil <rheil1@madisoncollege.edu>
+Date:   Sun Jan 30 20:16:49 2022 -0600
+
+    Added a new file
+
+commit 8b8fa729fee6ca1877e63d5383e317386dd02bd9
+Author: Regan Heil <rheil1@madisoncollege.edu>
+Date:   Sun Jan 30 20:06:06 2022 -0600
+
+    Exercise Week 1
+
+commit 987066d239f639d5fc4f3b7d468c23ac35f53d28
+Author: rheil1-matc <98554051+rheil1-matc@users.noreply.github.com>
+Date:   Sun Jan 30 19:16:35 2022 -0600
+
+    Delete week1
+
+commit 54a8a6f849fe947c4bbee66bcad8a00c3d10c0bf
+Author: rheil1-matc <98554051+rheil1-matc@users.noreply.github.com>
+Date:   Sun Jan 30 19:08:30 2022 -0600
+
+    Create week1
+
+commit 0eb7d774f497a34f3dda32424feaad1dbe162bd7
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Jan 27 20:00:02 2022 +0000
+
+    Setting up GitHub Classroom Feedback
+
+commit a7a529d4fc68561bd48661aa3c4371bd0439fba0
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Jan 27 20:00:01 2022 +0000
+
+    Update GitHub Classroom Feedback
+
+commit 94fb1cfadff29b4f6271df82d71db25170b6980b
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Jan 27 20:00:01 2022 +0000
+
+    Setting up GitHub Classroom Feedback
+
+commit 9806d5b922dd9b4d5fae406f23d9a88d1abf3f35
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Jan 27 20:00:00 2022 +0000
+
+    GitHub Classroom Feedback
+
+commit 195f3181552ed6ac7f7f574bee7f78ea0aa04d20
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Jan 27 19:59:59 2022 +0000
+
+    Add online IDE url
